@@ -12,7 +12,7 @@
     margin: 0;
     text-align: center;
     font-family: "Satoshi", sans-serif;
-    background: linear-gradient(162.44deg, #ff0c0b 0%, #ff5616 100%);
+    background: linear-gradient(to bottom right, #ff0c0b, #ff5616);
     color: #fff;
 } img {
 	max-width: 100%;
